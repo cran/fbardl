@@ -1,0 +1,13 @@
+998117e421345d6c8df82db9bd12951f *DESCRIPTION
+1b1c10a5c72bc9ab45942f7ca84ba9e4 *NAMESPACE
+7bc58b29fb76d58850c70b23404535c4 *R/data.R
+a29c56d48f712cb9fcf13ea1f880cdd2 *R/fbardl-package.R
+f5cf48c542848aa29d0f1c2927db333f *R/fbardl.R
+f859f09107f098e4ce919f02f857017f *R/helpers.R
+4a1f8a58cb9ea301cf88886e78c59be1 *README.md
+75d0a007992c60d09f764686e9397c0f *build/partial.rdb
+722a19c3272b31d95815cec72097031d *data/fbardl_data.rda
+e12de84c910248296b87fce9fccd7ee7 *inst/generate_data.R
+8d594059066d4399b9ab8ce2efe09044 *man/fbardl-package.Rd
+b4eba848fe23854ad6931afe816f3676 *man/fbardl.Rd
+b7ab0e74dae0c28873939fe77b8b09a0 *man/fbardl_data.Rd
